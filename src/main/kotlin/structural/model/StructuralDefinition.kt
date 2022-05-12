@@ -1,0 +1,3 @@
+package structural.model
+
+interface StructuralDefinition
