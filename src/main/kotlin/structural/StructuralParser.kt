@@ -1,7 +1,6 @@
 package structural
 
 import structural.exceptions.ClassConstructorNotFound
-import structural.exceptions.InvalidValueForType
 import structural.exceptions.StructureSizeIsTooBig
 import structural.handler.StructuralHandler
 import structural.model.StructuralDefinition
